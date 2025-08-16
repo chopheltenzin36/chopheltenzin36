@@ -70,17 +70,17 @@ and building projects with **Python Web Development**.
 
 <p align="center">
   <!-- Coding GIF -->
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400px" alt="Coding Gif">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600px" alt="Coding Gif">
 </p>
 
 <p align="center">
   <!-- Funny Developer Mood -->
-  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="400px" alt="Developer Mood Gif">
+  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="600px" alt="Developer Mood Gif">
 </p>
 
 <p align="center">
   <!-- Hacker Matrix Style -->
-  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="400px" alt="Matrix Hacker Gif">
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="600px" alt="Matrix Hacker Gif">
 </p>
 
 
