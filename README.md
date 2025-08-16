@@ -65,25 +65,12 @@ and building projects with **Python Web Development**.
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=chopheltenzin36&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
----
-## ✨ Fun GIFs  
-
-<p align="center">
-  <!-- Coding GIF -->
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600px" alt="Coding Gif">
-</p>
-
-<p align="center">
-  <!-- Funny Developer Mood -->
-  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="600px" alt="Developer Mood Gif">
-</p>
-
-<p align="center">
-  <!-- Hacker Matrix Style -->
-  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="600px" alt="Matrix Hacker Gif">
-</p>
-
-
+## ✨ Fun GIFs 
+<div class="gif-carousel" align="center">
+   <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" alt="Matrix Hacker Gif" width="600px">
+   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding Gif" width="600px">
+   <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" alt="Developer Mood Gif" width="600px">
+</div>
 ---
 
 ## 🌍 Connect With Me  
