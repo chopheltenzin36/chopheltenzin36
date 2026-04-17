@@ -12,7 +12,7 @@ and building projects with **Python Web Development**.
 ---
 
 ## 🚀 About Me
-- 🌱 Currently learning **Full Stack Web Development** (Python + JS)  
+- 🌱 Currently learning **FrontEnd Web Development** (Python + JS)  
 - 🛠 Working on personal projects to sharpen my coding skills  
 - 💡 Interested in **Open Source Contributions**  
 - 🎯 Goal: Become a **skilled software developer**  
@@ -106,3 +106,8 @@ and building projects with **Python Web Development**.
 ---
 
 ⭐️ From [Tenzin Chophel](https://github.com/chopheltenzin36)  
+Github Readme Generator: https://rahuldkjain.github.io/gh-prof...
+
+Github Profile Readme Generator: https://profile-readme-generator.com/
+
+Github Repo with all cool Portfolio: https://github.com/abhisheknaiidu/awe...
